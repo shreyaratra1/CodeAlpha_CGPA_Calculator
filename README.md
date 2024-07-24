@@ -58,4 +58,5 @@ Prompts the user for input and controls the flow of adding more semesters.
 #
 # OUTPUT-
 
-![Screenshot (30)](https://github.com/user-attachments/assets/fefd2691-c10e-4c99-a1c3-8274cd6ea24a)
+![Screenshot (37)](https://github.com/user-attachments/assets/4b080eb1-cb90-4762-a6df-08f8154cf5f1)
+
